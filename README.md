@@ -42,11 +42,12 @@
 
 <h2 align="center">🔥 Tech Stack & Tools 🔥</h2>
 <p align="center">
-  <a href="">
+  <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" title="Python"/>
   </a>
   
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" title="MySQL / SQL"/>
+  <img src="https://skillicons.dev/icons?i=mssql" height="50" alt="sql server logo" title="Microsoft SQL Server"/>
+  
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" title="PostgreSQL"/>
 
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" title="Linux"/>
