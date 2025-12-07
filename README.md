@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" title="Python"/>
   </a>
   
-  <img src="https://skillicons.dev/icons?i=mssql" height="50" alt="sql server logo" title="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="sql server logo" title="Microsoft SQL Server" style="background-color: white; border-radius: 5px; padding: 2px;"/>
   
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" title="PostgreSQL"/>
 
