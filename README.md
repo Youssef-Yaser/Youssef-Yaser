@@ -2,12 +2,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Amou+Youssef;Welcome+To+My+Profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Youssef+Yaser;Welcome+To+My+Profile!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="[https://www.linkedin.com/](https://www.linkedin.com/in/youssef-yasser-26b810316)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="#" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://github.com/amou-youssef" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
 </h5>
