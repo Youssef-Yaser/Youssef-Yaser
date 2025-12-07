@@ -63,12 +63,19 @@
 <h2 align="center">📌 Featured Repositories</h2>
 <br>
 
-<div align="center">
-  <a href="https://github.com/Youssef-Yaser/SQL-Data-Warehouse-First-Project">
-    <img width="45%" src="https://opengraph.githubassets.com/1/Youssef-Yaser/SQL-Data-Warehouse-First-Project" alt="SQL Data Warehouse Project" />
-  </a>
-  
-  &nbsp; &nbsp; <a href="https://github.com/Youssef-Yaser/SQL_Data_Analytics_First_Project">
-    <img width="45%" src="https://opengraph.githubassets.com/1/Youssef-Yaser/SQL_Data_Analytics_First_Project" alt="SQL Data Analytics Project" />
-  </a>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <h3>🏗️ <a href="https://github.com/Youssef-Yaser/SQL-Data-Warehouse-First-Project">SQL Data Warehouse Project</a></h3>
+      <p>Building a complete Data Warehouse from scratch.</p>
+      <code>SQL</code> <code>ETL</code> <code>Data Modeling</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 <a href="https://github.com/Youssef-Yaser/SQL_Data_Analytics_First_Project">SQL Data Analytics Project</a></h3>
+      <p>Analyzing complex datasets to extract insights.</p>
+      <code>SQL</code> <code>Data Analysis</code> <code>Reporting</code>
+    </td>
+  </tr>
+</table>
