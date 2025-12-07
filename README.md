@@ -59,8 +59,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" title="C++"/>
 </p>
 
-<hr>
-
 
 <h2 align="center">📌 Featured Repositories</h2>
 <br>
@@ -68,12 +66,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Youssef-Yaser/SQL-Data-Warehouse-First-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL-Data-Warehouse-First-Project&theme=dark&border_color=9933ff&border_radius=10&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL-Data-Warehouse-First-Project&theme=react&bg_color=20232a&title_color=61dafb&icon_color=61dafb&text_color=ffffff&hide_border=true" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Youssef-Yaser/SQL_Data_Analytics_First_Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL_Data_Analytics_First_Project&theme=dark&border_color=9933ff&border_radius=10&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL_Data_Analytics_First_Project&theme=react&bg_color=20232a&title_color=61dafb&icon_color=61dafb&text_color=ffffff&hide_border=true" />
       </a>
     </td>
   </tr>
