@@ -60,15 +60,20 @@
 </p>
 
 
-
 <h2 align="center">📌 Featured Repositories</h2>
 <br>
-<div align="center">
-  <a href="https://github.com/Youssef-Yaser/SQL-Data-Warehouse-First-Project">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL-Data-Warehouse-First-Project&theme=react&border_color=61dafb&border_radius=10&hide_border=true">
-  </a>
-  
-  <a href="https://github.com/Youssef-Yaser/SQL_Data_Analytics_First_Project">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL_Data_Analytics_First_Project&theme=react&border_color=61dafb&border_radius=10&hide_border=true">
-  </a>
-</div>
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/Youssef-Yaser/SQL-Data-Warehouse-First-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL-Data-Warehouse-First-Project&theme=react&bg_color=20232a&title_color=61dafb&icon_color=61dafb&text_color=ffffff&hide_border=true" alt="SQL Data Warehouse" />
+      </a>
+    </td>
+    
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/Youssef-Yaser/SQL_Data_Analytics_First_Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL_Data_Analytics_First_Project&theme=react&bg_color=20232a&title_color=61dafb&icon_color=61dafb&text_color=ffffff&hide_border=true" alt="SQL Data Analytics" />
+      </a>
+    </td>
+  </tr>
+</table>
