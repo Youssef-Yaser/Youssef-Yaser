@@ -72,4 +72,3 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Youssef-Yaser&repo=SQL_Data_Analytics_First_Project&theme=react&border_color=61dafb&border_radius=10&hide_border=true">
   </a>
 </div>
-</table>
